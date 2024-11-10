@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **3D Animation**
 
-- 👨‍💻 All of my projects are available at [https://portfolio1-red.vercel.app](https://portfolio1-red.vercel.app)
+- 👨‍💻 All of my projects are available at [https://portfolio1-red.vercel.app](https://portfolioarjun.vercel.app/)
 
 - 💬 Ask me about **react,next,gsap**
 
